@@ -1,0 +1,6 @@
+# Databaseの正規化についてのreport
+
+Databaseの正規化についてreportにまとめる。  
+授業欠席者が理解できるように内容を整理してまとめましょう。
+
+ここに個人ごとのfolderを作成し、その中にMarkdown形式で記述したreportを置いて下さい。
