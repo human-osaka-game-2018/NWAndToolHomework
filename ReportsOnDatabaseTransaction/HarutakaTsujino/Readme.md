@@ -62,7 +62,8 @@ MySQL等のデータベース管理ツールはこの一連の処理の適応や
 ## トランザクション分離レベル
 
 分離レベルの種類は4つあり<br>
-発生する問題と対応する
+発生する問題と対応する<br>
+
 |分離Level|Dirty Read|Fuzzy Read|Phantom Read|
 |:--|:-:|:-:|:-:|
 |READ UNCOMMITTED|○|○|○|
