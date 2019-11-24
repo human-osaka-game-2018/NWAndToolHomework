@@ -1,0 +1,5 @@
+# ChatToolのDBの外部key制約の詳細設定
+
+UPDATEはmessage_idとparent_message_idとuser_idはテーブルが書きかわるのでCASCADE<br>
+それ以外はRESTRICT<br>
+DELETEは基本的には物理削除はしないのでRESTRICT<br>
