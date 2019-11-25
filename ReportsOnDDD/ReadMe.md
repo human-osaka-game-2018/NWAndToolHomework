@@ -1,0 +1,6 @@
+# DDDについてのreport
+
+DDDについて調査を行い、reportに纏める。
+DDDについては授業で触れる時間は恐らく取れないですが、ChatTool開発時にはDDDを意識して設計を進めてみましょう。
+
+ここに個人ごとのfolderを作成し、その中にMarkdown形式で記述したreportを置いて下さい。
