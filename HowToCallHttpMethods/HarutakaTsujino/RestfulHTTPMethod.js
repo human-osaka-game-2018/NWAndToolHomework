@@ -36,15 +36,15 @@ const CreateNewUser = ()=>{
 };
 
 const GetUser = ()=>{
-	RequestAsync("GET", URL + get_textbox.value, LoadResponceText);
+	RequestAsync("GET", URL + "/" + get_textbox.value, LoadResponceText);
 };
 
 const UpdateUser = ()=>{
-	RequestAsync("PUT", URL + put_textbox.value, LoadResponceText);
+	RequestAsync("PUT", URL + "/"  + put_textbox.value, LoadResponceText);
 };
 
 const DeleteUser = ()=>{
-	RequestAsync("DELETE", URL + delete_textbox.value, LoadResponceText);
+	RequestAsync("DELETE", URL + "/"  + delete_textbox.value, LoadResponceText);
 };
 
 // 非同期でリクエストを投げる
