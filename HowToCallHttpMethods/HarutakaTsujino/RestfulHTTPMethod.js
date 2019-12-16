@@ -1,5 +1,5 @@
 // URL各自ポート等書き換えてください
-const URL = "http://localhost:33333/chat_tool/user";
+const URL = "http://localhost:33333/chat_tool/User";
 
 // HTMLの中身を全部上書きする用
 let main;
